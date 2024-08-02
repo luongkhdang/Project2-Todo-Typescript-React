@@ -1,3 +1,26 @@
+SAMPLE README
+
+# ![Todo - Reminder App (Project 2 - Basic React + Typescript)](demo.JPG)
+
+# Todo - Reminder App
+
+<table>
+<tr>
+<td>
+  This app is a basic Todo - Reminder app. 
+  technologies: Typescript, React, Bootstrap, JSONplaceholder
+</td>
+</tr>
+</table>
+
+## Demo
+
+## Built with
+
+Typescript, React, Bootstrap, JSONplaceholder
+
+## How to build:
+
 > > npx create-react-app reminders-app --template typescript
 > > gh auth login
 > > gh repo create <repo-name> --public
@@ -5,3 +28,33 @@
 > > git push -u origin master
 > > npm i boostrap
 > > install extension "Reactjs code snippets"
+
+### Landing Page
+
+![](demo.JPG)
+
+### Query Filled Form
+
+![](demo2.JPG)
+
+## Mobile support
+
+### Development
+
+Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+### Bug / Feature Request
+
+## To-do
+
+## Team
+
+[![Luong Dang](https://avatars.githubusercontent.com/luongkhdang)](https://github.com/iharsh234)
+
+[Luong Dang](https://github.com/luongkhdang)
+
+## [License](https://github.com/luongkhdang/theAPPP/blob/master/LICENSE.md)
+
+MIT © [Luong Dang ](https://github.com/luongkhdang)
