@@ -1,5 +1,5 @@
  
-Todo - Reminder App (Project 2 - Basic React + Typescript
+# Todo - Reminder App (Project 2 - Basic React + Typescript)
 
 # ![Todo - Reminder App (Project 2 - Basic React + Typescript)](demo.JPG)
 
@@ -9,6 +9,8 @@ Todo - Reminder App (Project 2 - Basic React + Typescript
 <tr>
 <td>
   - This app is a basic Todo - Reminder app. 
+ </td>
+ <td>
   - Technologies: Typescript, React, Bootstrap, JSONplaceholder
 </td>
 </tr>
