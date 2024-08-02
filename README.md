@@ -1,4 +1,5 @@
  
+Todo - Reminder App (Project 2 - Basic React + Typescript
 
 # ![Todo - Reminder App (Project 2 - Basic React + Typescript)](demo.JPG)
 
@@ -30,11 +31,11 @@ Typescript, React, Bootstrap, JSONplaceholder
     
 ### Landing Page
 
-![](demo.JPG)
+>> ![](demo.JPG)
 
 ### Query Filled Form
 
-![](demo2.JPG)
+>> ![](demo2.JPG)
 
 ## Mobile support
 
