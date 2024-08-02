@@ -1,4 +1,4 @@
-SAMPLE README
+ 
 
 # ![Todo - Reminder App (Project 2 - Basic React + Typescript)](demo.JPG)
 
@@ -7,8 +7,8 @@ SAMPLE README
 <table>
 <tr>
 <td>
-  This app is a basic Todo - Reminder app. 
-  technologies: Typescript, React, Bootstrap, JSONplaceholder
+  - This app is a basic Todo - Reminder app. 
+  - Technologies: Typescript, React, Bootstrap, JSONplaceholder
 </td>
 </tr>
 </table>
@@ -20,15 +20,14 @@ SAMPLE README
 Typescript, React, Bootstrap, JSONplaceholder
 
 ## How to build:
-
-> > npx create-react-app reminders-app --template typescript
-> > gh auth login
-> > gh repo create <repo-name> --public
-> > git remote add origin https://github.com/luongkhdang/Project2-Todo-Typescript-React.git
-> > git push -u origin master
-> > npm i boostrap
-> > install extension "Reactjs code snippets"
-
+  - npx create-react-app reminders-app --template typescript
+  - gh auth login
+  - gh repo create <repo-name> --public
+  - git remote add origin https://github.com/luongkhdang/Project2-Todo-Typescript-React.git
+  - git push -u origin master
+  - npm i boostrap
+  - install extension "Reactjs code snippets"
+    
 ### Landing Page
 
 ![](demo.JPG)
@@ -51,10 +50,10 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Team
 
-[![Luong Dang](https://avatars.githubusercontent.com/luongkhdang)](https://github.com/iharsh234)
+[![Luong Dang](https://avatars.githubusercontent.com/luongkhdang?v=2&s=100)](https://github.com/iharsh234)
 
 [Luong Dang](https://github.com/luongkhdang)
 
-## [License](https://github.com/luongkhdang/theAPPP/blob/master/LICENSE.md)
+## [License](https://github.com/luongkhdang/xxxxx/LICENSE.md)
 
 MIT © [Luong Dang ](https://github.com/luongkhdang)
