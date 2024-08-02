@@ -8,16 +8,16 @@
 <table>
 <tr>
 <td>
-  - This app is a basic Todo - Reminder app. 
+  - This app is a basic Todo - Reminder app.
  </td>
- <td>
+</tr>
+<tr>
+<td>
   - Technologies: Typescript, React, Bootstrap, JSONplaceholder
-</td>
+ </td>
 </tr>
 </table>
-
-## Demo
-
+## Demo: https://xxxxxxxxxx
 ## Built with
 
 Typescript, React, Bootstrap, JSONplaceholder
@@ -25,7 +25,7 @@ Typescript, React, Bootstrap, JSONplaceholder
 ## How to build:
   - npx create-react-app reminders-app --template typescript
   - gh auth login
-  - gh repo create <repo-name> --public
+  - gh repo create `<`repo-name`>` --public
   - git remote add origin https://github.com/luongkhdang/Project2-Todo-Typescript-React.git
   - git push -u origin master
   - npm i boostrap
